@@ -1,0 +1,4 @@
+beautifulsoup4>=4.9.1
+requests>=2.23.0
+pytelegrambotapi>=3.7.2
+schedule>=0.6.0
